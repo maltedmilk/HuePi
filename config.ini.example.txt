@@ -1,0 +1,4 @@
+; config.ini
+[DEFAULT]
+username = k-biglongstringofthings
+bridgeAddress = xxx.xxx.xxx.xxx
